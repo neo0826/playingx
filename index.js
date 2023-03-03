@@ -23,4 +23,4 @@ client.on('ready', () => {
     client.user.setActivity(`Clown Dev Team✨`,{ type: 'PLAYING' });
 })
 
-client.login('MTA0MDM2MDg3OTc2NzY5MTI2NA.GHozEo.qpD871mhwGy4N-cw7z1ZFzIZFc9kqHCVKOZ9vc');
+client.login('Nzg0MDc4MTE3NzM5NTYwOTgx.GAE_LP.QjBePI_vEdZJgUxDkigYcnWpNtoIrKGo8XewhY');
